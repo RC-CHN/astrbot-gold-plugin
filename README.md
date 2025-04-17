@@ -1,9 +1,6 @@
-# helloworld
+# 黄金行情插件
 
-AstrBot 插件模板
+查询招商银行实时黄金价格
 
-A template plugin for AstrBot plugin feature
-
-# 支持
-
-[帮助文档](https://astrbot.app)
+## 使用方式
+发送 `/gold` 指令获取最新行情
